@@ -1,131 +1,230 @@
-👋 Hi, I'm Priyanshu Puri
+<div align="center">👋 Hi, I'm Priyanshu Puri
 
-💻 Computer Science Student | Python Developer | Full-Stack & AI Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Full-Stack+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80;Learning+DSA+%26+Software+Engineering+%F0%9F%A7%A0" alt="Typing SVG" /><br/><a href="https://github.com/mickey-cb-250T">
+<img src="https://img.shields.io/github/followers/mickey-cb-250T?label=Followers&style=for-the-badge&logo=github" />
+</a><a href="https://github.com/mickey-cb-250T?tab=repositories">
+<img src="https://img.shields.io/github/stars/mickey-cb-250T?label=Stars&style=for-the-badge&logo=github" />
+</a></div>---
 
-I’m a Computer Science student passionate about building real-world software, AI-powered applications, and automation projects.
+🧑‍💻 About Me
 
-Currently, I'm focusing on strengthening my Python, Data Structures & Algorithms, Web Development, and Software Engineering skills while building projects that solve practical problems.
+class Developer:
+
+    def __init__(self):
+        self.name = "Priyanshu Puri"
+        self.role = "Computer Science Student"
+
+        self.languages = [
+            "Python",
+            "Java",
+            "JavaScript",
+            "TypeScript"
+        ]
+
+        self.interests = [
+            "Software Development",
+            "Artificial Intelligence",
+            "Full-Stack Development",
+            "Data Structures & Algorithms",
+            "Developer Tools"
+        ]
+
+        self.currently_learning = [
+            "Python",
+            "DSA",
+            "SQL",
+            "React",
+            "Next.js",
+            "AI Development"
+        ]
+
+        self.goal = "Become a strong Software Developer 🚀"
 
 ---
 
-🚀 About Me
+🚀 What I'm Currently Doing
 
-- 🔭 Currently working on AI & Web Development projects
-- 🌱 Currently learning Python, DSA, SQL, React & Next.js
-- 🤖 Interested in Artificial Intelligence & Developer Tools
-- 💻 Building projects to improve my software development skills
+- 🐍 Improving my Python skills
 - 🧠 Practicing Data Structures & Algorithms
-- 🎯 Goal: Become a strong Software Developer
-- 📚 Always learning and experimenting with new technologies
+- 💻 Solving problems on LeetCode
+- 🌐 Building modern web applications
+- 🤖 Exploring AI & LLM-powered applications
+- 🗃️ Learning SQL and databases
+- 🔧 Building developer-focused tools
+- 🚀 Turning ideas into real-world projects
 
 ---
 
 🛠️ Tech Stack
 
-Languages
+<div align="center">👨‍💻 Programming Languages
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,js,ts" /><br/><br/>
 
-Web Development
+🌐 Web Development
 
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"Next.js" (https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-"Tailwind CSS" (https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" /><br/><br/>
 
-Database & Tools
+🗄️ Backend & Database
 
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,flask,mysql" /><br/><br/>
 
-AI / Developer Tools
+🔧 Tools & Technologies
 
-- 🤖 AI-powered applications
-- 🧠 LLM integration
-- ⚡ AI-assisted development
-- 🛠️ Developer tools & automation
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" /></div>---
 
----
+🚀 Featured Projects
 
-📌 Featured Projects
+<div align="center"><a href="https://github.com/mickey-cb-250T/train-booking-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mickey-cb-250T&repo=train-booking-system&theme=tokyonight&hide_border=true" />
+</a><a href="https://github.com/mickey-cb-250T/Visual-Coder">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mickey-cb-250T&repo=Visual-Coder&theme=tokyonight&hide_border=true" />
+</a><a href="https://github.com/mickey-cb-250T/PDF-Forge">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mickey-cb-250T&repo=PDF-Forge&theme=tokyonight&hide_border=true" />
+</a></div>---
 
 🚆 Train Booking System
 
-A Python-based train booking system with station selection, train information and booking functionality.
+A Python-based train booking system that provides train information, station selection and booking functionality.
 
-Tech: Python
+Tech: "Python"
+
+🔗 "View Repository" (https://github.com/mickey-cb-250T/train-booking-system)
 
 ---
 
 👁️ Visual Coder
 
-An AI-powered developer tool designed to help users understand and work with code through a more visual and interactive experience.
+An AI-powered developer tool designed to make programming more visual, interactive and easier to understand.
 
-Tech: Next.js • TypeScript • Tailwind CSS • AI
+Tech: "Next.js" • "TypeScript" • "Tailwind CSS" • "AI"
 
----
-
-🎨 PDF Forge
-
-A web-based PDF utility project focused on creating and processing PDF documents.
-
-Tech: Web Development • Python • PDF Processing
+🔗 "View Repository" (https://github.com/mickey-cb-250T/Visual-Coder)
 
 ---
 
-🤖 Battery Cell Sorting System
+📄 PDF Forge
 
-An automation prototype designed to sort battery cells based on their measured voltage.
+A PDF-focused application for creating and processing PDF documents.
 
-Tech: Arduino • Servo Motor • Embedded Systems
+Tech: "Python" • "Web Development" • "PDF Processing"
 
----
-
-📊 GitHub Stats
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=mickey-cb-250T&show_icons=true&theme=tokyonight)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=mickey-cb-250T&layout=compact&theme=tokyonight)
+🔗 "View Repository" (https://github.com/mickey-cb-250T/PDF-Forge)
 
 ---
 
-🧩 Currently Working On
+📊 GitHub Statistics
 
-Python              ███████████████░░░░░
-Data Structures     ████████████░░░░░░░░
-SQL                 ███████████░░░░░░░░░
-Web Development     █████████████░░░░░░░
-AI Development      ██████████░░░░░░░░░░
-Git & GitHub        ████████████░░░░░░░░
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mickey-cb-250T&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickey-cb-250T&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/></div>---
+
+🔥 GitHub Contribution Streak
+
+<div align="center"><img src="https://streak-stats.demolab.com?user=mickey-cb-250T&theme=tokyonight&hide_border=true" /></div>---
+
+📈 Contribution Activity
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mickey-cb-250T&theme=github-compact&hide_border=true&area=true" width="95%"/></div>---
+
+🧠 LeetCode
+
+<div align="center"><!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username --><img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" /></div>---
+
+🏆 GitHub Trophies
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=mickey-cb-250T&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /></div>---
+
+🧩 DSA Progress
+
+Arrays & Strings        ███████████████░░░░░
+Hashing                 ████████████░░░░░░░░
+Two Pointers            █████████░░░░░░░░░░░
+Stack & Queue           ████████░░░░░░░░░░░░
+Linked List              ███████░░░░░░░░░░░░
+Trees                    █████░░░░░░░░░░░░░░░
+Graphs                   ███░░░░░░░░░░░░░░░░░
+Dynamic Programming     ██░░░░░░░░░░░░░░░░░░
 
 ---
+
+📚 Currently Learning
+
+<div align="center">Area| Technologies
+Programming| Python • Java
+Frontend| React • Next.js • TypeScript
+Backend| Flask • Node.js
+Database| MySQL • SQL
+AI| LLMs • AI Applications
+DSA| Arrays • Strings • Hashing • Trees • Graphs
+Tools| Git • GitHub • VS Code
+
+</div>---
 
 🎯 2026 Goals
 
-- [ ] Master Python
-- [ ] Complete DSA fundamentals
-- [ ] Solve 150+ LeetCode problems
-- [ ] Improve SQL skills
-- [ ] Build production-ready web applications
-- [ ] Build AI-powered applications
-- [ ] Contribute to Open Source
-- [ ] Get a Software Development Internship
-- [ ] Build a strong developer portfolio
+- [ ] 🐍 Master Python
+- [ ] 🧠 Complete DSA fundamentals
+- [ ] 🏆 Solve 150+ LeetCode problems
+- [ ] 🗃️ Improve SQL skills
+- [ ] ⚛️ Become stronger with React & Next.js
+- [ ] 🤖 Build production-ready AI applications
+- [ ] 🌟 Contribute to Open Source
+- [ ] 🚀 Build a strong developer portfolio
+- [ ] 💼 Get a Software Development Internship
 
 ---
 
-📫 Connect With Me
+📈 My Developer Journey
 
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/mickey-cb-250T)
+2025
+│
+├── 🔋 Hardware & Automation Projects
+├── 🤖 Battery Cell Sorting System
+│
+▼
+2026
+│
+├── 🐍 Python Development
+├── 🧠 Data Structures & Algorithms
+├── 🗃️ SQL & Databases
+├── 🌐 Full-Stack Development
+├── 🤖 AI-Powered Applications
+├── 🚆 Train Booking System
+├── 👁️ Visual Coder
+├── 📄 PDF Forge
+└── 💼 Preparing for Software Development
 
 ---
 
-💡 "Build. Learn. Break. Fix. Repeat."
+💡 Interests
 
-⭐ Thanks for visiting my profile!
+<div align="center">🤖 Artificial Intelligence
+
+💻 Software Development
+
+🌐 Full-Stack Development
+
+🧠 Data Structures & Algorithms
+
+⚡ Developer Tools
+
+🔧 Automation
+
+🚀 Building Products
+
+</div>---
+
+🌐 Connect With Me
+
+<div align="center"><a href="https://github.com/mickey-cb-250T">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a></div>---
+
+<div align="center">⚡ Build. Learn. Break. Fix. Repeat.
+
+<br/><img src="https://komarev.com/ghpvc/?username=mickey-cb-250T&style=for-the-badge&color=blue" alt="Profile Views"/><br/><br/>
+
+⭐ If you find my projects interesting, consider giving them a star!
+
+</div>
