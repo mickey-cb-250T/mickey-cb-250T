@@ -1,25 +1,31 @@
-<div align="center">👋 Hi, I'm Priyanshu Puri
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Full-Stack+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80;Learning+DSA+%26+Software+Engineering+%F0%9F%A7%A0" alt="Typing SVG" /><br/><a href="https://github.com/mickey-cb-250T">
-<img src="https://img.shields.io/github/followers/mickey-cb-250T?label=Followers&style=for-the-badge&logo=github" />
-</a><a href="https://github.com/mickey-cb-250T?tab=repositories">
-<img src="https://img.shields.io/github/stars/mickey-cb-250T?label=Stars&style=for-the-badge&logo=github" />
-</a></div>---
+# Hi there, I'm Priyanshu Puri 👋
 
-🧑‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Full-Stack+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80;Learning+DSA+%26+Software+Engineering+%F0%9F%A7%A0" alt="Typing SVG" />
 
+<a href="https://github.com/mickey-cb-250T">
+  <img src="https://img.shields.io/github/followers/mickey-cb-250T?label=Followers&style=for-the-badge&logo=github&color=58A6FF" />
+</a>
+<a href="https://github.com/mickey-cb-250T?tab=repositories">
+  <img src="https://img.shields.io/github/stars/mickey-cb-250T?label=Stars&style=for-the-badge&logo=github&color=58A6FF" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=mickey-cb-250T&label=Profile+Views&style=for-the-badge&color=58A6FF" />
+
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+```python
 class Developer:
-
     def __init__(self):
         self.name = "Priyanshu Puri"
         self.role = "Computer Science Student"
+        self.location = "India"
 
-        self.languages = [
-            "Python",
-            "Java",
-            "JavaScript",
-            "TypeScript"
-        ]
+        self.languages = ["Python", "Java", "JavaScript", "TypeScript"]
 
         self.interests = [
             "Software Development",
@@ -29,202 +35,131 @@ class Developer:
             "Developer Tools"
         ]
 
-        self.currently_learning = [
-            "Python",
-            "DSA",
-            "SQL",
-            "React",
-            "Next.js",
-            "AI Development"
-        ]
+        self.currently_learning = ["Advanced DSA", "SQL", "System Design"]
 
-        self.goal = "Become a strong Software Developer 🚀"
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something!")
+
+me = Developer()
+me.say_hi()
+```
 
 ---
 
-🚀 What I'm Currently Doing
+### 🛠️ Tech Stack
 
-- 🐍 Improving my Python skills
-- 🧠 Practicing Data Structures & Algorithms
-- 💻 Solving problems on LeetCode
-- 🌐 Building modern web applications
-- 🤖 Exploring AI & LLM-powered applications
-- 🗃️ Learning SQL and databases
-- 🔧 Building developer-focused tools
-- 🚀 Turning ideas into real-world projects
+<div align="center">
 
----
 
-🛠️ Tech Stack
 
-<div align="center">👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts" /><br/><br/>
 
-🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" /><br/><br/>
 
-🗄️ Backend & Database
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=nodejs,flask,mysql" /><br/><br/>
 
-🔧 Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" /></div>---
 
-🚀 Featured Projects
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<div align="center"><a href="https://github.com/mickey-cb-250T/train-booking-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mickey-cb-250T&repo=train-booking-system&theme=tokyonight&hide_border=true" />
-</a><a href="https://github.com/mickey-cb-250T/Visual-Coder">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mickey-cb-250T&repo=Visual-Coder&theme=tokyonight&hide_border=true" />
-</a><a href="https://github.com/mickey-cb-250T/PDF-Forge">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mickey-cb-250T&repo=PDF-Forge&theme=tokyonight&hide_border=true" />
-</a></div>---
 
-🚆 Train Booking System
 
-A Python-based train booking system that provides train information, station selection and booking functionality.
 
-Tech: "Python"
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-🔗 "View Repository" (https://github.com/mickey-cb-250T/train-booking-system)
+
+
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+</div>
 
 ---
 
-👁️ Visual Coder
+### 📊 GitHub Stats
 
-An AI-powered developer tool designed to make programming more visual, interactive and easier to understand.
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mickey-cb-250T&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickey-cb-250T&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-Tech: "Next.js" • "TypeScript" • "Tailwind CSS" • "AI"
-
-🔗 "View Repository" (https://github.com/mickey-cb-250T/Visual-Coder)
-
----
-
-📄 PDF Forge
-
-A PDF-focused application for creating and processing PDF documents.
-
-Tech: "Python" • "Web Development" • "PDF Processing"
-
-🔗 "View Repository" (https://github.com/mickey-cb-250T/PDF-Forge)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mickey-cb-250T&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-📊 GitHub Statistics
+### 🐍 Contribution Graph — Snake Game
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mickey-cb-250T&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickey-cb-250T&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/></div>---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mickey-cb-250T/mickey-cb-250T/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/mickey-cb-250T/mickey-cb-250T/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</div>
 
-🔥 GitHub Contribution Streak
+> ⚠️ This image only appears once the workflow below has run at least once (it creates an `output` branch with the generated SVG). Until then it'll show as a broken image.
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=mickey-cb-250T&theme=tokyonight&hide_border=true" /></div>---
+Add this file at `.github/workflows/snake.yml` in this same repo:
 
-📈 Contribution Activity
+```yaml
+name: Generate Snake
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mickey-cb-250T&theme=github-compact&hide_border=true&area=true" width="95%"/></div>---
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily
+  workflow_dispatch:
 
-🧠 LeetCode
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: mickey-cb-250T
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-<div align="center"><!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username --><img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" /></div>---
+      - name: push snake output to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
-🏆 GitHub Trophies
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=mickey-cb-250T&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /></div>---
-
-🧩 DSA Progress
-
-Arrays & Strings        ███████████████░░░░░
-Hashing                 ████████████░░░░░░░░
-Two Pointers            █████████░░░░░░░░░░░
-Stack & Queue           ████████░░░░░░░░░░░░
-Linked List              ███████░░░░░░░░░░░░
-Trees                    █████░░░░░░░░░░░░░░░
-Graphs                   ███░░░░░░░░░░░░░░░░░
-Dynamic Programming     ██░░░░░░░░░░░░░░░░░░
-
----
-
-📚 Currently Learning
-
-<div align="center">Area| Technologies
-Programming| Python • Java
-Frontend| React • Next.js • TypeScript
-Backend| Flask • Node.js
-Database| MySQL • SQL
-AI| LLMs • AI Applications
-DSA| Arrays • Strings • Hashing • Trees • Graphs
-Tools| Git • GitHub • VS Code
-
-</div>---
-
-🎯 2026 Goals
-
-- [ ] 🐍 Master Python
-- [ ] 🧠 Complete DSA fundamentals
-- [ ] 🏆 Solve 150+ LeetCode problems
-- [ ] 🗃️ Improve SQL skills
-- [ ] ⚛️ Become stronger with React & Next.js
-- [ ] 🤖 Build production-ready AI applications
-- [ ] 🌟 Contribute to Open Source
-- [ ] 🚀 Build a strong developer portfolio
-- [ ] 💼 Get a Software Development Internship
+Then run it once manually: go to your repo's **Actions** tab → select **Generate Snake** → **Run workflow**. After it finishes, refresh your profile page and the snake will appear.
 
 ---
 
-📈 My Developer Journey
+<div align="center">
 
-2025
-│
-├── 🔋 Hardware & Automation Projects
-├── 🤖 Battery Cell Sorting System
-│
-▼
-2026
-│
-├── 🐍 Python Development
-├── 🧠 Data Structures & Algorithms
-├── 🗃️ SQL & Databases
-├── 🌐 Full-Stack Development
-├── 🤖 AI-Powered Applications
-├── 🚆 Train Booking System
-├── 👁️ Visual Coder
-├── 📄 PDF Forge
-└── 💼 Preparing for Software Development
+### 📫 Connect with Me
 
----
-
-💡 Interests
-
-<div align="center">🤖 Artificial Intelligence
-
-💻 Software Development
-
-🌐 Full-Stack Development
-
-🧠 Data Structures & Algorithms
-
-⚡ Developer Tools
-
-🔧 Automation
-
-🚀 Building Products
-
-</div>---
-
-🌐 Connect With Me
-
-<div align="center"><a href="https://github.com/mickey-cb-250T">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a></div>---
-
-<div align="center">⚡ Build. Learn. Break. Fix. Repeat.
-
-<br/><img src="https://komarev.com/ghpvc/?username=mickey-cb-250T&style=for-the-badge&color=blue" alt="Profile Views"/><br/><br/>
-
-⭐ If you find my projects interesting, consider giving them a star!
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 </div>
