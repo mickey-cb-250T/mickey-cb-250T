@@ -106,53 +106,12 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mickey-cb-250T&theme=tokyonight&hide_border=true" />
 </div>
 
----
-
-### 🐍 Contribution Graph — Snake Game
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mickey-cb-250T/mickey-cb-250T/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/mickey-cb-250T/mickey-cb-250T/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </div>
 
-> ⚠️ This image only appears once the workflow below has run at least once (it creates an `output` branch with the generated SVG). Until then it'll show as a broken image.
-
-Add this file at `.github/workflows/snake.yml` in this same repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # daily
-  workflow_dispatch:
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: mickey-cb-250T
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: push snake output to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then run it once manually: go to your repo's **Actions** tab → select **Generate Snake** → **Run workflow**. After it finishes, refresh your profile page and the snake will appear.
-
----
 
 <div align="center">
 
